@@ -169,3 +169,31 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# camera tools
+v4l2-ctl.exe
+
+# models
+clip_image_model_vitb32.onnx
+clip_text_model_vitb32.onnx
+bpe_simple_vocab_16e6.txt.gz
+dino_deits8-224-final.onnx
+hed_pretrained_bsds.caffemodel
+hed_pretrained_bsds.prototxt
+nico-touch-left-arm-keras2.h5
+nico-touch-left-arm-keras3.h5
+nico-touch-right-arm-keras2.h5
+nico-touch-right-arm-keras3.h5
+nico-touch-left-arm.onnx
+nico-touch-right-arm.onnx
+
+# data files
+wipeout.npy
+picture.txt
+*.png
+*.tif
+
+# iCubSim
+iCubSim
+yarp.*
+_yarp.*

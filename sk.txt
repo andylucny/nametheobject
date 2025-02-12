@@ -1,0 +1,664 @@
+Jablko
+Vzduch
+Kondicionér
+Letisko
+Ambulancia
+Lietadlá
+Apartmán
+Šípka
+Parohy
+Zástera
+Aligátor
+architekt
+Členok
+Kreslo
+teta
+Lopta
+Bermudy
+Fazuľa
+Balón
+Medveď
+Blúzka
+Posteľ
+Poklona
+Chlieb
+Čierna
+rady
+Kosti
+Účet
+Horkosť
+Boxerky
+Opasok
+Mozog
+Býk
+Vtáčik
+Baby
+Kniha
+Späť
+Maslo
+Žiarovka
+Spony
+Netopier
+Banka
+Taška
+Podprsenka
+Čižmy
+Blazer
+bikiny
+Knižnica
+Kníhkupectvo
+Autobusová zastávka
+Mosadz
+Brat
+Chlapec
+Blender
+Vedro
+Pekáreň
+Most
+čln
+Auto
+krava
+Čiapka
+Sporák
+Líca
+Syr
+Kredenc
+Koberec
+Vrana
+Hrebeň
+Hrudník
+Stolička
+Cukrík
+kabinet
+Mačka
+Káva
+deti
+Kuchynský riad
+Leňoška
+Kuracie
+Kasíno
+Kabína
+Hrad
+cirkvi
+Kaviareň
+Kino
+Nákrčník
+Kravata
+Trstina
+Kostým
+Vesta
+Čokoláda
+Detská postieľka
+Gauč
+Violončelo
+Pokladník
+Skladateľ
+Jaskyňa
+Krajina
+Počítač
+Kanoe
+Hodiny
+Pes
+Jeleň
+somár
+Stôl
+Desktop
+Šaty
+Delfín
+Doktor
+zubár
+Bubon
+Príborník
+Dizajnér
+detektív
+dcéra
+Vajcia
+Slon
+Náušnice
+Uši
+Oči
+Statok
+Prst
+Líška
+Šaty
+Žaba
+Ventilátor
+Mraznička
+Ryby
+Film
+Noha
+Vlajka
+Fabrika
+otec
+Farma
+les
+Kvetina
+Ovocie
+Vidlička
+Hrozno
+Koza
+Šaty
+Cesnak
+Zázvor
+Žirafa
+Gauva
+Zrná
+Čerpacia stanica
+Garáž
+Rukavice
+Okuliare
+Darček
+galaxia
+Gitara
+babička
+dedko
+guvernér
+Dievča
+hosť
+Hamburger
+Ruka
+Hlava
+Vlasy
+Srdce
+Dom
+Kôň
+Sliepka
+Horn
+Klobúk
+Kladivo
+Hostel
+Nemocnica
+Hotel
+Podpätky
+Bylinky
+Hostiteľ
+Bunda
+Pulóver
+Šperky
+Čeľusť
+Jumper
+sudca
+Odšťavovač
+Klávesnica
+Dieťa
+Kengura
+Koala
+Nôž
+Citrón
+Lev
+Legíny
+Leg
+laptop
+Knižnica
+Jahňacie
+Londýn
+Pery
+Lung
+Zapaľovač
+Batožina
+Lampa
+právnik
+Myška
+Opica
+Ústa
+Mango
+Mlieko
+Hudba
+Zrkadlo
+Hudobník
+matka
+Muž
+Model
+Mall
+múzeum
+Obchod
+Mesačný svit
+Liek
+Mikroskop
+Noviny
+Nos
+Zápisník
+Krk
+Rezance
+Zdravotná sestra
+Náhrdelník
+Hluk
+oceán
+Pštros
+Olej
+Oranžová
+Cibuľa
+Rúra
+Sova
+Papier
+Panda
+Nohavice
+Palm
+Cestoviny
+Tekvica
+Lekárnik
+Zemiakový
+Parfum
+Panther
+Pad
+Ceruzka
+Pipe
+Polícia
+Pero
+Lekáreň
+Čerpacia stanica
+Policajná stanica
+Papagáj
+Lietadlo
+Holub
+Mobilný telefón
+Páv
+Prasa
+Vrecúško
+Pagoda
+Pyramída
+Peňaženka
+Palacinka
+Popcorn
+Klavír
+Lekár
+Fotograf
+profesor
+Maliar
+Park
+Rastlina
+Rádio
+Žiletka
+Rebrá
+Dúha
+Prsteň
+Králik
+Ryža
+Chladnička
+Diaľkové ovládanie
+Reštaurácia
+Cesta
+Chirurg
+Mierka
+Šampón
+Umývadlo
+Soľ
+Žralok
+Sandále
+Rameno
+Lyžica
+Mydlo
+Piesok
+Ovce
+Sárí
+Žalúdok
+Schody
+polievka
+Topánka
+Nožnice
+Vrabec
+Košeľa
+Kufor
+Sporák
+Snehuliak
+Sprcha
+Labuť
+Oblek
+Sveter
+Dym
+Sukňa
+Pohovka
+Ponožky
+štadióne
+Mrakodrap
+Škola
+Slnečné okuliare
+Papuče
+Šortky
+sendvič
+Jahoda
+Špagety
+Krevety
+Saxofón
+sestra
+Syn
+Speváčka
+senátor
+Ulica
+Supermarket
+Bazén
+Star
+Sky
+Slnko
+Loď
+Úsmev
+Tabuľka
+Moriak
+Kravata
+Prsty na nohách
+Nákladné auto
+Vlak
+Taxi
+Tiger
+Nohavice
+Jazyk
+Televízia
+učiteľ
+Korytnačka
+Tablet
+Železničná stanica
+Zubná pasta
+Chvost
+Divadlo
+Trenčkot
+čaj
+Paradajka
+Dorastenec
+Tunel
+Chrám
+Mesto
+Zubná kefka
+Strom
+Hračka
+Tkanivo
+Telefón
+Spodná bielizeň
+strýko
+Dáždnik
+Vesta
+Hlas
+Veterinár
+Vila
+husle
+Obec
+Vozidlo
+Váza
+Peňaženka
+Vlk
+Pás
+Zápästie
+Melón
+Veľryba
+Voda
+Krídla
+Šlahač
+Hodinky
+Žena
+Práčka
+Invalidný vozík
+Čašník
+Poranenie
+xylofón
+Zebra
+Zoologická záhrada
+Osoba
+Tenisky
+Fľaša
+pohár
+Osvetlenie
+Polička
+Kabelka
+taška
+Náramok
+Doska
+Obrázok
+Rám
+Prilba
+Úložný box
+Lavička
+Črepníková rastlina
+Misa
+Povodie
+Vankúš
+Mikrofón
+Pohár na víno
+Monitor
+Batoh
+Semafor
+Hovorca
+Kôš
+Konzerva
+Bicykel
+Stolička
+Hlaveň
+Van
+Košík
+Autobus
+Divoký vták
+Vysoké podpätky
+Motocykel
+mobilný telefón
+Fotoaparát
+Zaváranina
+Dopravný kužeľ
+Činel
+Záchranca života
+Uterák
+Plyšová hračka
+Sviečka
+Plachetnica
+Markíza
+Kohútik
+Stan
+Elektrická zásuvka
+Klimatizácia
+Hokejka
+Pádlovať
+Nákladiak
+Dopravná značka
+Statív
+Pot
+Koláč
+Jedálenský stôl
+Vešiak
+Tabuľa
+Tabuľa
+Obrúsok
+ryba
+mandarínka
+Toaletné potreby
+Lucerna
+Strojové vozidlo
+Zelená zelenina
+Banán
+Baseballová rukavica
+Lietadlo
+futbal
+Skiboard
+Nočný stolík
+Kanvica na čaj
+Vozík
+telefón
+Športové auto
+Značka Stop
+Dezert
+Skúter
+Kočík
+Žeriav
+Kačica
+Bejzbalová pálka
+Dohľadová kamera
+Džbán
+Brokolica
+Pizza
+skateboard
+Surfová doska
+Pištoľ
+Plynový sporák
+Donut
+Motýlik
+Mrkva
+WC
+Šarkan
+Lopata
+Paprika
+Počítačová skrinka
+Toaletný papier
+Čistiace prostriedky
+Paličky
+Mikrovlnná rúra
+Bejzbal
+Doska na sekanie
+Doska na krájanie
+Konferenčný stolík
+Bočný stôl
+Značkovač
+Koláč
+Rebrík
+Snowboard
+Pečivo
+Radiátor
+Požiarny hydrant
+Basketbal
+Hrozno
+Klobása
+Trojkolka
+Hasiaci prístroj
+Hasičské auto
+Biliard
+Konvertor
+Vaňa
+Golfový klub
+Aktovka
+Uhorka
+Cigara
+Cigareta
+Štetec na farbu
+Hruška
+Ťažké nákladné auto
+Extraktor
+Predlžovací kábel
+Kliešte
+Tenisová raketa
+Priečinok
+americký futbal
+slúchadlá
+Maska
+Kanvica
+tenis
+Hojdačka
+Kávovar
+Snímka
+Preprava
+Zelené fazuľky
+Projektor
+tanier na Frisbee
+Práčka
+Sušiaci stroj
+Tlačiareň
+melón
+Zmrzlina
+hranolky
+Trofej
+Kapustnica
+Hot dog
+Peach
+volejbal
+hus
+páska
+Kozmetika
+Trúbka
+Ananás
+Golfová loptička
+Parkovací automat
+kľúč
+Prekážka
+Rybársky prút
+medailu
+Flauta
+Štetec
+Tučniak
+Megafón
+Kukurica
+Šalát
+Helikoptéra
+Zelená cibuľa
+Orechy
+Značka obmedzenia rýchlosti
+Indukčný varič
+Metla
+Trombón
+Slivka
+Rikša
+Zlatá rybka
+Kiwi ovocie
+Smerovač
+modem
+Pokrová karta
+Hriankovač
+Suši
+Poznámkový papier
+Čerešňa
+Kliešte
+CD
+Tágo
+Avokádo
+melón
+Banka
+Huba
+Skrutkovač
+záznamník
+baklažán
+Guma na tabuľu
+Kokos
+Zvinovací meter
+Pravítko
+Sprchová hlavica
+Glóbus
+Čipsy
+Steak
+Značka prechodu pre chodcov
+Zošívačka
+Ťava
+Formula
+Granátové jablko
+Umývačka riadu
+Krab
+vznášadlo
+Mäsová guľa
+Ryžovar
+Tuba
+Kalkulačka
+Papája
+Antilopa
+Pečať
+Motýľ
+Činka
+Pisoár
+Elektrická vŕtačka
+Sušič vlasov
+Vaječný koláč
+Medúza
+Bežecký pás
+Grapefruit
+Herná doska
+Mop
+Reďkovka
+Baozi
+Cieľ
+francúzsky kľúč
+Závitok
+Peračník
+Jak
+Červená kapusta
+Ďalekohľad
+Špargľa
+Činka
+Hrebenatka
+Prikyvuje
+Hrebeň
+Knedľa
+Ustrica
+Pádlo na stolný tenis
+Kozmetický štetec
+Ceruzka na očné linky
+Motorová píla
+Guma
+Homár
+Durian
+Okra
+Rúž
+Kozmetické zrkadlo
+Kurling
+stolný tenis
+Čajník
