@@ -22,12 +22,15 @@ from PerceptionAgent import PerceptionAgent
 from LookAroundAgent import LookAroundAgent
 from SpeakerAgent import SpeakerAgent
 from NamingAgent import NamingAgent
+from lips import LipsAgent
 
 CameraAgent('HD Pro Webcam C920',0,'robotEye',fps=10) 
 time.sleep(1)
 PerceptionAgent('robotEye','clipFeatures','dinoPoints')
 time.sleep(1)
 LookAroundAgent('dinoPoints','dontLook')
+time.sleep(1)
+LipsAgent('speaking')
 time.sleep(1)
 SpeakerAgent('tospeak')
 time.sleep(1)

@@ -15,6 +15,7 @@ class LipsAgent(Agent):
         self.attach_timer(0.25)
  
     def senseSelectAct(self):
+        #print('timer')
         speaking = space(default=False)[self.name]
         if speaking:
             #print("speaking")

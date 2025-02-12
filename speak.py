@@ -1,5 +1,8 @@
 import pyttsx3
 import os
+from agentspace import space
+
+space['language'] = 'sk'
     
 def speak(text):
     engine = pyttsx3.init()
@@ -20,25 +23,37 @@ def speak(text):
     voice_names = [ voice.name for voice in voices ] 
     #print(voice_names)
     
-    try:
-        speaker = voice_names.index('Microsoft Zira Desktop - English (United States)')
-    except ValueError:
+    if space(default='en')['language'] == 'sk':
         try:
-            speaker = voice_names.index('Microsoft David Desktop - English (United States)')
+            speaker = voice_names.index('Microsoft Filip - Slovak (Slovakia)')
         except ValueError:
             try:
-                speaker = voice_names.index('english-us')
+                speaker = voice_names.index('Vocalizer Expressive Laura Harpo 22kHz')
             except ValueError:
                 speaker = 0
     
+    else:
+        try:
+            speaker = voice_names.index('Microsoft Zira Desktop - English (United States)')
+        except ValueError:
+            try:
+                speaker = voice_names.index('Microsoft David Desktop - English (United States)')
+            except ValueError:
+                try:
+                    speaker = voice_names.index('english-us')
+                except ValueError:
+                    speaker = 0
+    
     #print('speaker:',speaker, voices[speaker].name)
     engine.setProperty('voice', voices[speaker].id)
+    space['speaking'] = True
     engine.say(text)
     print('speaking on <'+text+'>')
     engine.runAndWait()
     print('speaking off')
+    time.sleep(0.5)
+    space['speaking'] = False
 
 if __name__ == "__main__":
-    speak('I am a robot.')
-    speak('You are a man.')
+    speak('Na holi sa pasie ovca.')
     print('done')
