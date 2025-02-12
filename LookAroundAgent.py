@@ -32,9 +32,7 @@ class LookAroundAgent(Agent):
         
         x, y = point
         
-        head_x, head_y = self.head.get()[:2]
-        
-        limit_x = head_y
+        head_y, _, head_x = self.head.get()[:3]
         
         reset_x, reset_y = False, False
         if np.abs(head_x) > 40:
@@ -62,13 +60,8 @@ class LookAroundAgent(Agent):
         else:
             delta_degrees_y = 2*30*(0.5-y) - head_y
         
-        if head_y + delta_degrees_y <= -limit_x+1:
-            delta_degrees_y = 0.0
-        if head_y + delta_degrees_y >= limit_x-1:
-            delta_degrees_y = 0.0
-        
         angular_speed = 0.04
-        limit = 3.0 
+        limit = 2.0 
         
         if np.abs(delta_degrees_x) > limit:
             self.head.set(joint2 = head_x + delta_degrees_x)
