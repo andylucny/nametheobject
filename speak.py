@@ -1,6 +1,7 @@
 import pyttsx3
 import os
 from agentspace import space
+import time
 
 space['language'] = 'sk'
     
